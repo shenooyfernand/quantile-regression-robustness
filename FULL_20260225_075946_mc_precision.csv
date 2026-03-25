@@ -1,0 +1,2 @@
+n_rep,max_mcse_bias,mean_mcse_bias,max_mcse_mse,mean_mcse_mse,max_mcse_conv,mean_mcse_conv,pct_adequate_bias,pct_adequate_conv
+1000,0.006531618831407495,0.0010629949952341178,0.07456197557225,0.0032344199184953615,0,0,100,100
